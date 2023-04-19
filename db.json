@@ -1,0 +1,80 @@
+{
+      "id": 3,
+      "title": "G15 Gaming Laptop",
+      "description": "12th Gen Intel® Core™ i7-12700H Windows 11 Home Single Language NVIDIA® GeForce RTX™ 3050 Ti, 4 GB GDDR6 16GB, 2x8GB, DDR5, 4800MHz 512 GB, M.2, PCIe, SSD 39.6-cm. display Full HD (1920X1080) 120Hz",
+      "img": "https://i.dell.com/sites/csimages/Banner_Imagery/en/indhs-g-series-15-5520-laptop-btc-D560822WIN9B.png",
+      "category": "laptop",
+      "brand": "Dell",
+      "price": "699 $",
+      "rating": "4.6/5"
+    },
+    {
+      "id": 4,
+      "title": "Vostro 3510 Laptop",
+      "description": "11th Gen Intel® Core™ i5-1135G7 Windows 11 Home Single Language Intel® UHD Graphics 8 GB, 1 x 8 GB, DDR4, 2666 MHz 256GB M.2 PCIe NVMe Solid State Drive (Boot) + 1TB 5400 rpm 2.5inch SATA Hard Drive (Storage) 39.6-cm. display Full HD (1920X1080) Starting at 1.69 kg",
+      "img": "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/in-dhs-vostro-3510-grey-pp.png",
+      "category": "laptop",
+      "brand": "HP",
+      "price": "699 $",
+      "rating": "4.6/5"
+    },
+    {
+      "id": 5,
+      "title": "Apple MacBook Air 13.3-Inch",
+      "description": "(MGN63) Space Gray Processor: Apple M1 chip with 8-core CPU and 7-core GPU RAM: 8GB, Storage: 256GB SSD Display: 13.3-inch 2560x1600 LED-backlit Retina Features: Backlit Magic Keyboard",
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-228x228.webp",
+      "category": "laptop",
+      "brand": "apple",
+      "price": "999 $",
+      "rating": "4.9/5"
+    },
+    {
+      "id": 6,
+      "title": "Apple MacBook Pro 13.3-Inch",
+      "description": " SSD Silver (MNEP3) Processor: Apple M2 chip, 8-core CPU with 4 performance & 4 efficiency cores RAM: 8GB , Storage: 256GB SSD Display: 13.3-inch (diagonal) LED-backlit display with IPS technology Features: Magic Keyboard and the Touch Bar",
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/m2-chip/macbook-pro-13-inch-m2-silver-228x228.jpg",
+      "category": "laptop",
+      "brand": "apple",
+      "price": "909 $",
+      "rating": "4.9/5"
+    },
+    {
+      "id": 7,
+      "title": "Apple iPhone 14 Plus",
+      "description": " 256GB SSD Silver (MNEP3) Processor: Apple M2 chip, 8-core CPU with 4 performance & 4 efficiency cores RAM: 8GB , Storage: 256GB SSD Display: 13.3-inch (diagonal) LED-backlit display with IPS technology Features: Magic Keyboard and the Touch Bar",
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-plus.jpg",
+      "category": "smartphone",
+      "brand": "apple",
+      "price": "899 $",
+      "rating": "4.8/5"
+    },
+    {
+      "id": 8,
+      "title": "samsung-galaxy-s23-ultra-5g",
+      "description": " M2 Chip 8GB RAM 256GB SSD Silver (MNEP3) Processor: Apple M2 chip, 8-core CPU with 4 performance & 4 efficiency cores RAM: 8GB , Storage: 256GB SSD Display: 13.3-inch (diagonal) LED-backlit display with IPS technology Features: Magic Keyboard and the Touch Bar",
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-ultra-5g.jpg",
+      "category": "smartphone",
+      "brand": "samsung",
+      "price": "409 $",
+      "rating": "4.9/5"
+    },
+    {
+      "id": 9,
+      "title": "Huawei P60 Pro",
+      "description": "Display M2 Chip 8GB RAM 256GB SSD Silver (MNEP3) Processor: Apple M2 chip, 8-core CPU with 4 performance & 4 efficiency cores RAM: 8GB , Storage: 256GB SSD Display: 13.3-inch (diagonal) LED-backlit display with IPS technology Features: Magic Keyboard and the Touch Bar",
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p60-pro.jpg",
+      "category": "smartphone",
+      "brand": "Huawei",
+      "price": "499 $",
+      "rating": "4.9/5"
+    },
+    {
+      "id": 10,
+      "title": "Huawei Pocket S",
+      "description": "8GB RAM 256GB SSD Silver (MNEP3) Processor: Apple M2 chip, 8-core CPU with 4 performance & 4 efficiency cores RAM: 8GB , Storage: 256GB SSD Display: 13.3-inch (diagonal) LED-backlit display with IPS technology Features: Magic Keyboard and the Touch Bar",
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/huawei-pocket-s.jpg",
+      "category": "smartphone",
+      "brand": "Huawei",
+      "price": "309 $",
+      "rating": "4.9/5"
+    }
